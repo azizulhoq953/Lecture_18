@@ -55,4 +55,5 @@ func docs(w http.ResponseWriter, r *http.Request) {
 
 	ptmp.Execute(w, nil)
 	//fmt.Fprintf(w, `welcome`)
+	//test for jenkins
 }
